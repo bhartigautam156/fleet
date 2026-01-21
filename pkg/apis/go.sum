@@ -1,5 +1,5 @@
-github.com/bhartigautam156/wrangler/v3 v3.3.1-0.20251229122518-17d8c43b27b8 h1:ZK8BVzgiGJL3yrS2WBQ7E42KXJfYF2nXwd36z11+qLw=
-github.com/bhartigautam156/wrangler/v3 v3.3.1-0.20251229122518-17d8c43b27b8/go.mod h1:UywN9i54VZcAH9/BIxpUDnOZCiKapd95kJKcEFUcrAY=
+github.com/bhartigautam156/wrangler/v3 v3.3.2-0.20260121071658-21d254f6dd17 h1:qmOsGOuMXtLYJO4F3hyFa1OIR4YOaBGcw7po4WHL1l4=
+github.com/bhartigautam156/wrangler/v3 v3.3.2-0.20260121071658-21d254f6dd17/go.mod h1:rpo1jnGvWKh/quqgkHt0YlEVM1n0MakjVv9B6ojIVfA=
 github.com/creack/pty v1.1.9/go.mod h1:oKZEueFk5CKHvIhNR5MUki03XCEU+Q6VDXinZuGJ33E=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=

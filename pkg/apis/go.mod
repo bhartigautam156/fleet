@@ -8,7 +8,7 @@ toolchain go1.25.6
 toolchain go1.25.4
 >>>>>>> 88db5cb9 (bump k8s.io/kubernetes 1.34.1 -> 1.35.0)
 
-replace github.com/rancher/wrangler/v3 => github.com/bhartigautam156/wrangler/v3 v3.3.1-0.20251229122518-17d8c43b27b8
+replace github.com/rancher/wrangler/v3 => github.com/bhartigautam156/wrangler/v3 v3.3.2-0.20260121071658-21d254f6dd17
 
 require (
 	github.com/rancher/wrangler/v3 v3.3.1
