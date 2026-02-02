@@ -7,8 +7,6 @@ toolchain go1.25.4
 replace (
 	github.com/imdario/mergo => github.com/imdario/mergo v1.0.2
 	github.com/rancher/fleet/pkg/apis => ./pkg/apis
-	github.com/rancher/lasso => github.com/bhartigautam156/lasso v0.0.0-20260121065228-70b2c91143c4
-	github.com/rancher/wrangler/v3 => github.com/bhartigautam156/wrangler/v3 v3.3.2-0.20260121071658-21d254f6dd17
 	gopkg.in/go-playground/webhooks.v6 => github.com/go-playground/webhooks/v6 v6.4.0
 )
 
@@ -42,9 +40,9 @@ require (
 	github.com/prometheus/client_golang v1.23.2
 	github.com/prometheus/client_model v0.6.2
 	github.com/prometheus/common v0.67.5
-	github.com/rancher/fleet/pkg/apis v0.14.0
-	github.com/rancher/lasso v0.2.5
-	github.com/rancher/wrangler/v3 v3.3.1
+	github.com/rancher/fleet/pkg/apis v0.14.2
+	github.com/rancher/lasso v0.2.6
+	github.com/rancher/wrangler/v3 v3.3.2-rc.1
 	github.com/reugn/go-quartz v0.15.2
 	github.com/sirupsen/logrus v1.9.4
 	github.com/spf13/cobra v1.10.2

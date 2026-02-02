@@ -2,16 +2,10 @@ module github.com/rancher/fleet/pkg/apis
 
 go 1.25.0
 
-<<<<<<< HEAD
-toolchain go1.25.6
-=======
 toolchain go1.25.4
->>>>>>> 88db5cb9 (bump k8s.io/kubernetes 1.34.1 -> 1.35.0)
-
-replace github.com/rancher/wrangler/v3 => github.com/bhartigautam156/wrangler/v3 v3.3.2-0.20260121071658-21d254f6dd17
 
 require (
-	github.com/rancher/wrangler/v3 v3.3.1
+	github.com/rancher/wrangler/v3 v3.3.2-rc.1
 	k8s.io/api v0.35.0
 	k8s.io/apimachinery v0.35.0
 )
